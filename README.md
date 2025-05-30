@@ -76,4 +76,4 @@ If you find a problem, incorrect comment, obsolete or improper code or such,
 please search for an issue about it at http://drupal.org/project/issues/examples
 If there isn't already an issue for it, please create a new one.
 
-Thanks.
+Thank you.
